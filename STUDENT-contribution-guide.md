@@ -3,7 +3,7 @@
 ## Getting Started Early
 
 Experience shows that the best thing to help your application is to engage with the
-organization you want to work with early. For Deep Fusion AI you should introduce yourself in the [WhatsApp workspace](https://chat.whatsapp.com/IrVPYeWtS0p8uEpvomBZFH). [The opensource guide](https://opensource.guide/how-to-contribute/) has a
+organization you want to work with early. For DSC NSEC you should introduce yourself in the [Slack workspace](http://dscnsec-winterofcode.slack.com/). [The opensource guide](https://opensource.guide/how-to-contribute/) has a
 good introduction how to start contributing to open source projects.
 
 ## Am I experienced enough?
@@ -27,15 +27,15 @@ gives a good overview of this part for WoC.
 Organizations usually favor students that show a regular communication with
 possible mentors and organizations until we announce the accepted projects.
 
-Establishing a regular communication is good for 2 reasons. It shows that you are a reliable student and that you have good communication skills. Good communication skills are an important part of WoC since a student and mentor can rarely meet in person. Please, communicate through the WhatsApp channel, or on github. Please, do not send private messages to mentors and organizers; if you have a question, it is highly probable another person has the same question, and they can benefit from the open discussion.
+Establishing a regular communication is good for 2 reasons. It shows that you are a reliable student and that you have good communication skills. Good communication skills are an important part of WoC since a student and mentor can rarely meet in person. Please, communicate through the Slack channel, or on github. Please, do not send private messages to mentors and organizers; if you have a question, it is highly probable another person has the same question, and they can benefit from the open discussion.
 
-You can get started by exploring the references in the project descriptions, getting familiar with the Deep Fusion AI repositories and data, attempting some of the suggested steps and trying out listed tools, reading through the wiki and contributing missing details, resolving issues, reviewing PRs, improving code documentation and style, and adding tests.  Before submitting a big code change, make sure you open an issue to discuss with other contributors. 
+You can get started by exploring the references in the project descriptions, getting familiar with the DSC NSEC repositories and data, attempting some of the suggested steps and trying out listed tools, reading through the wiki and contributing missing details, resolving issues, reviewing PRs, improving code documentation and style, and adding tests.  Before submitting a big code change, make sure you open an issue to discuss with other contributors. 
 
 When we evaluate an application we use the following point system to get a baseline comparison of students. We are providing this rubric to help you successfully apply and not miss any key components of the application process. You don't have to tick off all of these, and you can always do more, but these are our basic expecations. We will be fair, we promise, but will rate your effort from 1-5 (1 is failure to complete; 3 is completion, but with average effort; 5 is full completion with effort in the top 10% of your peers).
 
 - 5pts Communicate with organization's mentors
 - 5pts Communicate with the community
-- 5pts Follow instructions and format of the [Deep Fusion AI WoC proposal template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md)
+- 5pts Follow instructions and format of the [DSC NSEC WoC proposal template](https://github.com/dscnsec/DocScanner/blob/master/STUDENT-proposal-template.md)
 - 5pts Properly cite the work of others in your proposal and code, including links to repos or provided code
 - 5pts Provide all requested contact information (i.e. email & slack name, & github if available)
 - 5pts Project title, abstract, and detailed description
@@ -54,7 +54,7 @@ When we evaluate an application we use the following point system to get a basel
 
 **Communication**
 
-- Write a short report for us every two weeks in the WhatsApp group, discuss it with your mentor(s), and be sure to include personal goals for the next 2-week period.
+- Write a short report for us every two weeks in the Slack group, discuss it with your mentor(s), and be sure to include personal goals for the next 2-week period.
 - Commit early and commit often! Push to a public repository (e.g. github) so
   that we can see and review your work.
 - Actively work on our project timeline and communicate with us during the
@@ -72,7 +72,7 @@ When we evaluate an application we use the following point system to get a basel
 
 ## Proposal Instructions
 
-Projects proposed by mentors are listed at our [IDEA.md](https://github.com/DeepFusionAI/social-distance-detector/blob/master/IDEA.md).
+Projects proposed by mentors are listed at our [IDEA.md](https://github.com/dscnsec/DocScanner/blob/master/IDEA.md).
 
 Please title your proposal appropriately. You are free to use components from several projects ideas. Be realistic about the scope. You are also welcome to propose your own idea, but first discuss it on WhatsApp to ensure there will be mentors who can support it.
 
@@ -83,19 +83,19 @@ First, think about your choice of project carefully. You're going to be doing it
 Once you've made your mind up:
 
 1. Make sure you've thought about the project and understand what it entails.
-2. Engage with the community early. The earlier you contact us, the more feedback you will receive on your application. It may take time to review the draft proposals so feel free to ask on WhatsApp or GitHub whether your proposed path makes sense. Also open-source code is often built in the open, so it is usual to obtain feedback within public fora.
+2. Engage with the community early. The earlier you contact us, the more feedback you will receive on your application. It may take time to review the draft proposals so feel free to ask on Slack or GitHub whether your proposed path makes sense. Also open-source code is often built in the open, so it is usual to obtain feedback within public fora.
 3. Don't be afraid to come up with original solutions to the problem.
 4. Don't hesistate to give us lots of detail about how you would approach the project, but also be succinct and convey your ideas clearly. A picture or a link may be worth a lot of words.
 
-Overall, your application should make us believe that you are capable of completing the project and delivering the functionality to our Deep Fusion AI users and/or the broader open-source community. If you aren't sure about something, ask questions on WhatsApp where we're happy to advise you.
+Overall, your application should make us believe that you are capable of completing the project and delivering the functionality to our DSC NSEC users and/or the broader open-source community. If you aren't sure about something, ask questions on Slack where we're happy to advise you.
 
 ### How to estimate time needed for development
-Get some familiarity with the Deep Fusion AI repositories and data. Test existing functions, add missing details, fix code style. Do some research on the methods and tools you plan to use. Install the needed packages and build a plan of how they will work together. Write down your algorithms in pseudo code. 
+Get some familiarity with the DSC NSEC repositories and data. Test existing functions, add missing details, fix code style. Do some research on the methods and tools you plan to use. Install the needed packages and build a plan of how they will work together. Write down your algorithms in pseudo code. 
 
 The better your research is and the better you plan ahead, the easier it will be to judge how long a given task will take. For
-your time estimates you should also consider that you can do less during exams or other summer activities, so try to be a bit conservative. Discuss the risks of the proposal and potential challenges. How do you intend to address them? What criteria will you use to evaluate milestones (code tests, functional demo, baseline recording, etc.)? If you have never done anything like WoC before, you will tend to underestimate the time to complete a task. We know that making accurate estimates isn't easy, but having a good plan -- including identifying its weak and strong points -- will help ensure a successful summer of coding.
+your time estimates you should also consider that you can do less during exams or other winter activities, so try to be a bit conservative. Discuss the risks of the proposal and potential challenges. How do you intend to address them? What criteria will you use to evaluate milestones (code tests, functional demo, baseline recording, etc.)? If you have never done anything like WoC before, you will tend to underestimate the time to complete a task. We know that making accurate estimates isn't easy, but having a good plan -- including identifying its weak and strong points -- will help ensure a successful summer of coding.
 
 ### Final Proposal
 
-Your final proposal must be submitted to us as a PDF file, using [this template](https://github.com/DeepFusionAI/social-distance-detector/blob/master/STUDENT-proposal-template.md). Your proposal should be named appropriately to make identification easier for the mentors. To convert a draft that you have written
+Your final proposal must be submitted to us as a PDF file, using [this template](https://github.com/dscnsec/DocScanner/blob/master/STUDENT-proposal-template.md). Your proposal should be named appropriately to make identification easier for the mentors. To convert a draft that you have written
 before into PDF you can use [iLovePDF](https://www.ilovepdf.com/).
