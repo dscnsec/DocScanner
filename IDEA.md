@@ -8,7 +8,7 @@ Several document scanners were readily available in the market until recently wh
 
 **Bonus skills:** Cloud computing, Docker, Tesseract OCR
 
-**Possible mentors:** Rajwrita Nath, Rishiraj Acharya
+**Possible mentors:** Rajwrita Nath, Rishiraj Acharya, Ritesh Prasad Singh
 
 **References and open-source building blocks:**
 - Models: Tensorflow, Keras, Scikit-learn, TensorflowJS
