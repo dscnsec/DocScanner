@@ -10,6 +10,6 @@ After you [sign up as a WoC student](https://winterofcode.com/) please refer to 
 
 # Questions?
 
-Ask WoC-specific questions in the [DSC NSEC Slack workspace](http://dscnsec-winterofcode.slack.com/).
+Ask WoC-specific questions in the [DSC NSEC Discord workspace](http://go.dscnsec.com/discord/).
 
 More questions about being a WoC mentor or student? Check out the [WoC mentor & student guides](https://winterofcode.com/).
