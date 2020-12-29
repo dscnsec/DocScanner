@@ -3,8 +3,10 @@ import numpy as np
 import argparse
 import cv2
 import imutils
+import os
 
 
+current_path=os.getcwd()
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required = True)
@@ -98,3 +100,4 @@ cv2.waitKey(0)
 
 
 
+cv2.imwrite(current_path+'/Scanned.png',imutils.resize(warped, height = 650))
